@@ -1,0 +1,5 @@
+Halo bro, salam kenal saya ega dari nganjuk
+
+resolusi saya:
+- membuat web site menggunakan framework javascript
+- bekerja di start up
